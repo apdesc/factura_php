@@ -1,4 +1,4 @@
-<div class="login-box">
+<div class="login-box" style="border: 1px dotted; color: #000;">
 <?php
  $error="";
 if($_SERVER['REQUEST_METHOD'] =="POST")
